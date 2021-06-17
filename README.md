@@ -12,4 +12,4 @@ This repository holds the scripts that reproduce the analysis in the paper [1]. 
 References
 =======
 [1.] Nonparametric Empirical Bayes Estimation on Heterogeneous Data    
-Banerjee T., Fu L., James G., Sun W. _(under review)_
+Banerjee T., Fu L., James G., Sun W.(2021) _(under review)_
